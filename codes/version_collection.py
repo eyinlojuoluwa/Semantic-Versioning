@@ -13,7 +13,7 @@ import json
 import time
 from collections import Counter
 
-hugging_token = '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'
+hugging_token = 'token'
 
 api = HfApi(token=hugging_token)
 
