@@ -9,7 +9,7 @@ from requests.exceptions import RequestException
 import pytz
 
 
-hugging_token = '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'
+hugging_token = 'token'
 api = HfApi(token=hugging_token)
 
 data = "/Users/adekunleajibode/Desktop/CISC_877_doc/RQ1_Experiment/new_data/comprehensive_dataset.csv"
