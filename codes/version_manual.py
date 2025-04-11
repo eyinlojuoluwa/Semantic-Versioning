@@ -11,7 +11,7 @@ from huggingface_hub import ModelCard
 from difflib import SequenceMatcher
 from nltk.tokenize import word_tokenize
 
-hugging_token = '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'
+hugging_token = 'token'
 api = HfApi(token=hugging_token)
 
 data = "/Users/adekunleajibode/Desktop/CISC_877_doc/RQ1_Experiment/new_data/minor_manual_work_with_version.csv"
