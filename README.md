@@ -59,3 +59,6 @@ Lastly, we discovered that changes in configuration settings, training libraries
 - Filipe Roseiro Cogo
 - Bram Adams
 - Ahmed E. Hassan
+
+## Citation
+Ajibode, A., Bangash, A. A., Cogo, F. R., Adams, B., & Hassan, A. E. (2025). Towards semantic versioning of open pre-trained language model releases on hugging face. Empirical Software Engineering, 30(3), 1-63.
