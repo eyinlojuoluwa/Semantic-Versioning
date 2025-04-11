@@ -4,7 +4,7 @@ import traceback
 from huggingface_hub import HfApi
 #from transformers import AutoModel, AutoConfig
 
-hugging_token = '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'
+hugging_token = 'token'
 api = HfApi(token=hugging_token)
 
 data = "/Users/adekunleajibode/Desktop/CISC_877_doc/RQ1_Experiment/stage1_dataset.xlsx"
