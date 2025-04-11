@@ -5,7 +5,7 @@ from huggingface_hub import HfApi
 import requests
 from bs4 import BeautifulSoup
 
-hugging_token = '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'
+hugging_token = 'token'
 api = HfApi(token=hugging_token)
 
 data = "/Users/adekunleajibode/Desktop/CISC_877_doc/RQ1_Experiment/nlp_more_than_1m.xlsx"
